@@ -1,6 +1,5 @@
 ### Project Overview
-
- this is a test form
+This is a student management project
 
 
 ### Learnings from the project
